@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Sam Mirabyan.
 
-I’m a rookie self-taught Python developer decided to switch careers in his 30-es after working in military equipment :helicopter: sales for over 5 years.
-Open-minded, lifetime-learner, eager for the opportunity to learn and experience something new in the limitless field of software.
+I’m a rookie self-taught Python developer decided to switch careers in my 30-es after working in military equipment :helicopter: sales for over 5 years.
+Open-minded, lifetime-learner, eager for any opportunity to learn and experience something new in the limitless field of software.
 
-I’m currently in the process of transitioning to professional software development, so if you have a project related to Python or Django or maybe even a job offer, feel free to contact me.
+I’m currently in the process of transitioning :rowboat: to professional software development, so if you have a project related to Python or Django or maybe even a job offer, feel free to contact me.
 
 ### My skills :muscle:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,10 +17,15 @@ I’m currently in the process of transitioning to professional software develop
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 ### My learning platforms :books:
-I prefer getting information from official docs, books and tutorials.  
-My favorite tutorial platforms are:
-- [freeCodeCamp](https://freecodecamp.org/).
+I love reading books, official docs, work through tutorials and listen to podcasts, that's how I learn.
 
+**Some of my favorite learning platforms are** :arrow_double_down:
+- [freeCodeCamp](https://freecodecamp.org/)
+- [PSF official tutorial](https://docs.python.org/3/tutorial/)
+- [TestDriven.io](https://testdriven.io/)
+- [Real Python](https://realpython.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)
+- [Dev community](https://dev.to/)
 
 ### Contact me :mailbox:
 [[Telegram][0]] [[Twitter][1]] [[Habr][2]] [[Email][3]]
@@ -28,12 +33,17 @@ My favorite tutorial platforms are:
 ### Blogging :memo:
 Recently I started blogging on my GitHub Pages static site. [You can check it out](https://sammirabyan.github.io).
 
-### My stats on GItHub
+### My stats on GItHub :bar_chart:
 ![My stats](https://github-readme-stats.vercel.app/api?username=sammirabyan&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ![My langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammirabyan&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
+[0]: https://t.me/sammirabyan/
+[1]: https://twitter.com/smirabyan/
+[2]: https://habr.com/ru/users/unordereddict/
+[3]: mailto:mirabyansr@gmail.com
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -43,8 +53,3 @@ Recently I started blogging on my GitHub Pages static site. [You can check it ou
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[0]: https://t.me/sammirabyan/
-[1]: https://twitter.com/smirabyan/
-[2]: https://habr.com/ru/users/unordereddict/
-[3]: mailto:mirabyansr@gmail.com
